@@ -1,2 +1,2 @@
-# :stopwatch: timer
-:stopwatch:  Timer until your date
+# :stopwatch: Timer
+Timer until your date
